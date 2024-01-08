@@ -1,7 +1,7 @@
 {
 	"applinks": {
 		"details": [
-			"appIds": [ "com.reidbelton.applinktest" ]
+			"appIds": [ "com.reidbelton.applinktest", "com.reidbelton.applinktest2", "com.reidbelton.applinktest3" ]
 		]
 	}
 }
